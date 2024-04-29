@@ -1,1 +1,1 @@
-# ethical-hacking-project-main
+# ethical-hacking-project
